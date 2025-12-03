@@ -7,4 +7,5 @@ Dieser Ordner ist nur ein "Test-Ordner", um die Grundlagen von GitHub zu versteh
 Hier habe ich eine neue Zeile in Visual Studio ode geschrieben. 
 
 Jetzt mache ich wieder einen Comit auf der Website github.com
-Ich habe Zugriff auf deine Readme-Datei
+Ich habe Zugriff auf deine Readme-Datei.
+Hast du meine Änderungen hier erhalten?
